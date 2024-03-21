@@ -1,7 +1,8 @@
-site_name: 'Cloud Applications Domain'
+site_name: 'backstage domain'
 
 nav:
-  - Home: index.md
+  - The Domain: index.md
+  - Adding Documentation: add-docs.md
 
 plugins:
   - techdocs-core

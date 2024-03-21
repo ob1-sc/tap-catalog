@@ -1,7 +1,5 @@
-# yelb system
+# backstage system
 
-The Yelb system is composed of four parts: `yelb-appserver`, `yelb-ui`, `yelb-db`, and `redis-server`.
+[Backstage](https://backstage.io/) is an open platform for building developer portals.
 
-# yelb
-
-This sample catalog and documentation corresponds to a demonstration application called [Yelb](https://github.com/mreferre/yelb).
+More information about the backstage system would be listed here.

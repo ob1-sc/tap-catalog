@@ -1,7 +1,8 @@
-site_name: 'Yelb system'
+site_name: 'Backstage system'
 
 nav:
-  - Home: index.md
+  - The System: index.md
+  - Adding Documentation: add-docs.md
 
 plugins:
   - techdocs-core
